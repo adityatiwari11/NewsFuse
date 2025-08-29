@@ -2,7 +2,7 @@
 
 A modern, responsive news aggregation website built with vanilla HTML, CSS, and JavaScript. Experience clean design meets cutting-edge UI aesthetics in this professional news portal.
 
-![NewsFuse Banner](https://freeimage.host/i/KFKJXhg)
+[![KFKJXhg.png](https://iili.io/KFKJXhg.png)](https://freeimage.host/)
 
 ## 🌟 Overview
 
