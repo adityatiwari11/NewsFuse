@@ -62,8 +62,7 @@ External Services:
 
 ## 🚀 Live Demo
 
-### 🌐 **Vercel Deployment**
-*[Vercel Link - To be added]*
+**Live Demo:** [news-fuse-akt.vercel.app](https://news-fuse-akt.vercel.app/)
 
 Experience NewsFuse live with instant loading and seamless performance.
 
@@ -102,16 +101,10 @@ npx live-server
 ```
 newsfuse-v1/
 ├── index.html              # Main HTML structure
-├── styles/
-│   ├── main.css           # Core styles and layout
-│   └── responsive.css     # Media queries and responsiveness
-├── scripts/
-│   ├── app.js             # Main application logic
-│   ├── api.js             # NewsAPI integration
-│   └── utils.js           # Utility functions
-├── assets/
-│   ├── images/            # Logo and static images
-│   └── icons/             # UI icons and favicons
+├── styles.css              # Main CSS File
+├── script.js               # Main Java Script File
+├── api/
+│   ├── news.js            # API Call Fuction from Environment Variable
 └── README.md              # Project documentation
 ```
 
@@ -149,7 +142,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Credits
 
-**Developed by:** [Aditya Kumar Tiwari]((https://www.linkedin.com/in/akt11/))
+**Developed by:** [Aditya Kumar Tiwari](https://www.linkedin.com/in/akt11/)
 
 *Passionate about creating beautiful, functional web experiences that push the boundaries of modern design.*
 
