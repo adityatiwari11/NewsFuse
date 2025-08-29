@@ -2,7 +2,7 @@
 
 A modern, responsive news aggregation website built with vanilla HTML, CSS, and JavaScript. Experience clean design meets cutting-edge UI aesthetics in this professional news portal.
 
-![NewsFuse Banner](https://via.placeholder.com/1200x400/6366f1/ffffff?text=NewsFuse+V1)
+![NewsFuse Banner]([https://via.placeholder.com/1200x400/6366f1/ffffff?text=NewsFuse+V1](https://drive.google.com/file/d/1bi6mlgQ0OZHQD_Hv97ioFwi1G0Y0AMdl/view?usp=sharing))
 
 ## 🌟 Overview
 
@@ -62,7 +62,7 @@ External Services:
 
 ## 🚀 Live Demo
 
-**Live Demo:** [news-fuse-akt.vercel.app](https://news-fuse-akt.vercel.app/)
+**NewsFuse:** [Click Here For Live Demo](https://news-fuse-akt.vercel.app/)
 
 Experience NewsFuse live with instant loading and seamless performance.
 
