@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewsFuse - Stay Informed</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <a href="#" class="logo">NewsFuse</a>
+        <div class="category-selector">
+            <button class="category-btn" onclick="toggleDropdown()">
+                Categories <span class="dropdown-arrow" id="dropdownArrow">▼</span>
+            </button>
+            <div class="category-dropdown" id="categoryDropdown">
+                <div class="category-item" data-category="general" onclick="selectCategory('general')">General</div>
+                <div class="category-item" data-category="sports" onclick="selectCategory('sports')">Sports</div>
+                <div class="category-item" data-category="politics" onclick="selectCategory('politics')">Politics</div>
+                <div class="category-item" data-category="entertainment" onclick="selectCategory('entertainment')">Movies</div>
+                <div class="category-item" data-category="technology" onclick="selectCategory('technology')">International</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>Where Info Meets the Muse.</h1>
+        </div>
+
+        <!-- Loading Spinner -->
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+        </div>
+
+        <!-- News Grid -->
+        <div class="news-grid" id="newsGrid" style="display: none;"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
