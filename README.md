@@ -76,7 +76,7 @@ Experience NewsFuse live with instant loading and seamless performance.
 ### **Quick Start**
 ```bash
 # Clone the repository
-git clone [your-repository-url]
+git clone [https://github.com/adityatiwari11/NewsFuseV1]
 
 # Navigate to project directory
 cd newsfuse-v1
@@ -85,10 +85,6 @@ cd newsfuse-v1
 # Edit the API key in your JavaScript file
 
 # Open index.html in your browser or serve locally
-# For local server (optional):
-python -m http.server 8000
-# or
-npx live-server
 ```
 
 ### **API Configuration**
